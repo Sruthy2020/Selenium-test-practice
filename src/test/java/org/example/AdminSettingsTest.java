@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
 import static org.junit.jupiter.api.Assertions.*;
 
 @SpiraTestConfiguration(
-        url = "https://rmit.spiraservice.net/",
+        url = "",
         login = "",
         rssToken = "",
         projectId = 455
